@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#logo{
+    height: 100px;
+    vertical-align: middle ;  
+}
+
+#header-top h1{
+    display: inline;
+}
