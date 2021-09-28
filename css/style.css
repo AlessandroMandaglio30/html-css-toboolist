@@ -1,14 +1,17 @@
+/* dati di pag */
 *{
     margin:0;
     padding:0;
     box-sizing: border-box;
 }
+/* sfondo della pag */
 .sfondo{
     background-color:gainsboro;
     width:auto;
     height:auto;
 
 }
+/* contenitore di tutto  */
 .conteiner{
     width: 590px;
     background-color: white;
@@ -29,6 +32,7 @@ header{
 #header-top h1{
     display: inline;
 }
+/* bottoni */
 .batton hr{
     margin-top: 20px;
 }
@@ -39,7 +43,7 @@ header{
     margin-bottom: 100px;
     margin-left: 20px;
 }
-
+/* decorazioni */
 .btn-blu{
     width: 100px; 
     height:40px;
@@ -47,7 +51,7 @@ header{
     border-radius: 10%;
     background-color: rgb(0, 76, 255);
 }
-
+ 
 .btn-bianco{
     width:100px; 
     height:40px;
