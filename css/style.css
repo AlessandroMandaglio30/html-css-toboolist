@@ -3,15 +3,24 @@
     padding:0;
     box-sizing: border-box;
 }
+.sfondo{
+    background-color:gainsboro;
+    width:auto;
+    height:auto;
+
+}
 .conteiner{
-    
+    height: 100px;
+    width: 590px;
+    background-color: white;
     margin-left: 20%;
     margin-top: 20px;
-
+    border-radius: 20px;
 }
 #logo{
     height: 100px;
     vertical-align: middle ;  
+
 }
 
 #header-top h1{
