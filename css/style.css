@@ -3,7 +3,12 @@
     padding:0;
     box-sizing: border-box;
 }
+.conteiner{
+    
+    margin-left: 20%;
+    margin-top: 20px;
 
+}
 #logo{
     height: 100px;
     vertical-align: middle ;  
@@ -12,12 +17,14 @@
 #header-top h1{
     display: inline;
 }
+hr{
+    margin-top: 10px;
+}
 
 .batton{
-    margin-left: 20%;
-    margin-top: 20px;
     height: 30px;
     font-size: 40px;
+    margin-bottom: 100px;
 }
 
 .btn-blu{
@@ -34,4 +41,27 @@
     color:gray;
     border-radius: 10%;
     background-color: white;
+}
+
+.scritta{
+    color:rgba(0, 0, 0, 0.438);
+}
+
+.scritta2{
+    color: black;
+}
+
+.cerchio{
+    background-color: green;
+    border-radius: 50%;
+    font-size: 25px;
+    color: rgb(204, 207, 204);
+}
+
+.btn-azzurro{
+    width: 80px; 
+    height:20px;
+    color:white;
+    border-radius: 10%;
+    background-color: rgb(8, 161, 221);
 }
