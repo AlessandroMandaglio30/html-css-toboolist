@@ -12,3 +12,26 @@
 #header-top h1{
     display: inline;
 }
+
+.batton{
+    margin-left: 20%;
+    margin-top: 20px;
+    height: 30px;
+    font-size: 40px;
+}
+
+.btn-blu{
+    width: 100px; 
+    height:40px;
+    color:white;
+    border-radius: 10%;
+    background-color: rgb(0, 76, 255);
+}
+
+.btn-bianco{
+    width:100px; 
+    height:40px;
+    color:gray;
+    border-radius: 10%;
+    background-color: white;
+}
