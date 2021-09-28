@@ -65,3 +65,41 @@ hr{
     border-radius: 10%;
     background-color: rgb(8, 161, 221);
 }
+.testo{
+    margin-bottom: 35px;
+}
+.btn-viola{
+    width: 80px; 
+    height:20px;
+    color:white;
+    border-radius: 10%;
+    background-color: rgb(71, 8, 219);
+}
+.cerchio-rosso{
+    background-color: red;
+    border-radius: 50%;
+    font-size: 25px;
+    color: rgb(204, 207, 204);
+}
+.btn-arancio{
+    width: 80px; 
+    height:20px;
+    color:white;
+    border-radius: 10%;
+    background-color: rgb(219, 76, 9);
+}
+.btn-rosa{
+    width: 80px; 
+    height:20px;
+    color:white;
+     border-radius: 10%;
+    background-color: rgb(228, 88, 111)
+}
+
+.btn-verde{
+    width: 80px; 
+    height:20px;
+    color:white;
+     border-radius: 10%;
+    background-color: rgb(88, 228, 107)
+}
